@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9601580848c7a584c8d5cc450d8dca12
+timeCreated: 1514815383
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bauhaus 93
+  fontNames:
+  - Bauhaus 93
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
